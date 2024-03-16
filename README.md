@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Curya (Wang Yiyu). 
+### Hi there 👋, I'm Curya. 
 
 <!--
 **232525/232525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
