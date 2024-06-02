@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Curya. 
 
-Homepage: [curya-wangyiyu.github.io](curya-wangyiyu.github.io).
+Homepage: [https://curya-wangyiyu.github.io/](https://curya-wangyiyu.github.io/) .
+
 
 <!--
 **232525/232525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
